@@ -1,4 +1,5 @@
 @extends('layouts.HomeLayout')
+@section('title', 'All Todos')
   @section('content')
     <!-- Form Start -->
      <div class="container">

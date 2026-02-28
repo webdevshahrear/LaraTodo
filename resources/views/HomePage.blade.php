@@ -1,4 +1,5 @@
   @extends('layouts.HomeLayout')
+  @section('title', 'Add Todo')
   @section('content')
   
   <!-- Form Start -->
